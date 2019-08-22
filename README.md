@@ -13,3 +13,5 @@ As a way to get more familiar with the MERN stack, I decided to build a simple w
 - Open the terminal and access the location where the repo has been downloaded/cloned
 - Run npm install to download the different modules
 - Run npm start
+
+*I have included the API keys for testing purposes and might be removed at any time.*
